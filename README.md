@@ -4,3 +4,5 @@
 </p>
 <h3 align="center"><b>Languages</b></h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperAkca79&layout=compact&theme=vision-friendly-light"> </p>
+<h3 align="center"><b>Stats</b></h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlperAkca79&show_icons=true&theme=light"></p>
