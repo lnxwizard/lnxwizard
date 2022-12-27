@@ -5,8 +5,9 @@
 <h3 align="center"><b>Languages</b></h3>
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperAkca79&layout=compact&theme=vision-friendly-light"> <br>
-    <img src="https://user-images.githubusercontent.com/91411319/209705855-dd7a6596-fdcb-443e-ba6e-a9ce105b5123.png" height="110" width="100">
-    <img src="https://user-images.githubusercontent.com/91411319/209705987-a3650cfb-cc4f-4964-934e-ef30c485c342.png" height="110" width="100">
+    <img src="https://github.com/AlperAkca79/AlperAkca79/blob/master/images/csharp-logo.png" height="110" width="100">
+    <img src="https://github.com/AlperAkca79/AlperAkca79/blob/master/images/cpp-logo.png" height="115" width="115">
+    <img src="https://github.com/AlperAkca79/AlperAkca79/blob/master/images/python-logo.png" height="100" width="100">
 </p>
 <h3 align="center"><b>Stats</b></h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlperAkca79&show_icons=true&theme=light"></p>
