@@ -28,7 +28,7 @@
 </p> <br>
 
 <p align="center"> 
-    Visual Studio | VS Code | Intellij Idea | PyCharm
+    Visual Studio | VS Code | IntelliJ IDEA | PyCharm
 </p>
 
 </p>
