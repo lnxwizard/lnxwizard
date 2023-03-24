@@ -10,6 +10,7 @@
 <p align="center">
     <img src="res/cpp-logo.png" height="100" width="100">
     <img src="res/csharp-logo.png" height="100" width="100">
+    <img src="res/dart-logo.png" height="100" width="100">
     <img src="res/python-logo.png" height="100" width="100">
     <img src="res/java-logo.png" height="100" width="100">
     <img src="res/html-logo.png" height="100" width="100">
@@ -17,7 +18,7 @@
 </p> <br>
 
 <p align="center"> 
-    C++ | C# | Python | Java | HTML | CSS
+    C++ | C# | Dart | Python | Java | HTML | CSS
 </p>
 
 <p align="center">
