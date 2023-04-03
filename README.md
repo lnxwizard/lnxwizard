@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-    <img src="res/visual-studio-logo.png" height="100" width="100">
-    <img src="res/vs-code-logo.png" height="100" width="100">
-    <img src="res/intellij-idea-logo.png" height="100" width="100">
+    <a href="https://visualstudio.microsoft.com/tr/"><img src="res/visual-studio-logo.png" height="100" width="100"></a>
+    <a href="https://code.visualstudio.com/"><img src="res/vs-code-logo.png" height="100" width="100"></a>
+    <a href="https://www.jetbrains.com/idea/"><img src="res/intellij-idea-logo.png" height="100" width="100"></a>
 </p> <br>
 
 <p align="center"> 
