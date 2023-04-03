@@ -10,26 +10,22 @@
 <p align="center">
     <img src="res/cpp-logo.png" height="100" width="100">
     <img src="res/csharp-logo.png" height="100" width="100">
-    <img src="res/dart-logo.png" height="100" width="100">
     <img src="res/python-logo.png" height="100" width="100">
     <img src="res/java-logo.png" height="100" width="100">
-    <img src="res/html-logo.png" height="100" width="100">
-    <img src="res/css-logo.png" height="100" width="100">
 </p> <br>
 
 <p align="center"> 
-    C++ | C# | Dart | Python | Java | HTML | CSS
+    C++ | C# | Python | Java
 </p>
 
 <p align="center">
     <img src="res/visual-studio-logo.png" height="100" width="100">
     <img src="res/vs-code-logo.png" height="100" width="100">
     <img src="res/intellij-idea-logo.png" height="100" width="100">
-    <img src="res/pycharm-logo.png" height="100" width="100">
 </p> <br>
 
 <p align="center"> 
-    Visual Studio | VS Code | IntelliJ IDEA | PyCharm
+    Visual Studio | VS Code | IntelliJ IDEA
 </p>
 
 </p>
