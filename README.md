@@ -8,10 +8,10 @@
 
 <h3 align="center"><b>Languages & Tools</b></h3>
 <p align="center">
-    <img src="res/cpp-logo.png" height="100" width="100">
-    <img src="res/csharp-logo.png" height="100" width="100">
-    <img src="res/python-logo.png" height="100" width="100">
-    <img src="res/java-logo.png" height="100" width="100">
+    <a href="https://isocpp.org/"><img src="res/cpp-logo.png" height="100" width="100"></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="res/csharp-logo.png" height="100" width="100"></a>
+    <a href="https://www.python.org/"><img src="res/python-logo.png" height="100" width="100"></a>
+    <a href="https://www.java.com/"><img src="res/java-logo.png" height="100" width="100"></a>
 </p> <br>
 
 <p align="center"> 
