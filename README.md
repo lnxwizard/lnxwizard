@@ -1,34 +1,28 @@
-<h1 align="center"> <b> Hello, I'm Alper. </b> </h1>
-<p align="center">
-    <a href="https://github.com/AlperAkca79"> <img src="https://user-images.githubusercontent.com/91411319/203580559-1cfe439e-73f4-4a0f-8dba-865d56438225.gif" height="150" width="150"> </a>
-</p>
-<h3 align="center"><b> Most Used Language</b></h3>
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperAkca79&layout=compact&theme=vision-friendly-light"> <br>
+<h1 align="center">Hi 👋, I'm Alper</h1>
+<h3 align="center">I'm Junior Software Developer</h3>
 
-<h3 align="center"><b>Languages & Tools</b></h3>
-<p align="center">
-    <a href="https://isocpp.org/"><img src="res/cpp-logo.png" height="100" width="100"></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="res/csharp-logo.png" height="100" width="100"></a>
-    <a href="https://www.python.org/"><img src="res/python-logo.png" height="100" width="100"></a>
-    <a href="https://www.java.com/"><img src="res/java-logo.png" height="100" width="100"></a>
-</p> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperakca79&label=Profile%20views&color=0e75b6&style=flat" alt="alperakca79" /> </p>
 
-<p align="center"> 
-    C++ | C# | Python | Java
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperakca79" alt="alperakca79" /></a> </p>
 
-<p align="center">
-    <a href="https://visualstudio.microsoft.com/"><img src="res/visual-studio-logo.png" height="100" width="100"></a>
-    <a href="https://code.visualstudio.com/"><img src="res/vs-code-logo.png" height="100" width="100"></a>
-    <a href="https://www.jetbrains.com/idea/"><img src="res/intellij-idea-logo.png" height="100" width="100"></a>
-</p> <br>
+- 🔭 I’m currently working on [SkyNotepad](https://github.com/AlperAkca79/SkyNotepad)
 
-<p align="center"> 
-    Visual Studio | VS Code | IntelliJ IDEA
+- 🌱 I’m currently learning **Go Programming Language**
+
+- 👨‍💻 All of my projects are available at [https://alperakca79.github.io](https://alperakca79.github.io)
+
+- 📝 I regularly write articles on [https://alperakca79.github.io/blog](https://alperakca79.github.io/blog)
+
+- 📫 How to reach me **alperakca79@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/alperakca79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alperakca79" height="30" width="40" /></a>
 </p>
 
-</p>
-<h3 align="center"><b>Stats</b></h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlperAkca79&show_icons=true&theme=light"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=AlperAkca79&style=for-the-badge"></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperakca79&show_icons=true&locale=en" alt="alperakca79" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperakca79&" alt="alperakca79" /></p>
