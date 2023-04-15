@@ -9,11 +9,17 @@
 
 - 🌱 I’m currently learning **Go Programming Language**
 
-- 👨‍💻 All of my projects are available at [https://alperakca79.github.io](https://alperakca79.github.io)
+- 👨‍💻 All of my projects are available at [https://alperakca79.github.io](https://alperakca79.github.io/projects)
 
 - 📝 I regularly write articles on [https://alperakca79.github.io/blog](https://alperakca79.github.io/blog)
 
+- 🌐 My official website is [https://alperakca79.github.io](https://alperakca79.github.io). 
+  
+  I write documents and blogs about my projects on my website. I think you should take a look.
+
 - 📫 How to reach me **alperakca79@outlook.com**
+
+- 🇹🇷 I'm From Turkey
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
