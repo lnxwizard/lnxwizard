@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperakca79&show_icons=true&locale=en" alt="alperakca79" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperakca79&" alt="alperakca79" /></p>
+
+<p>
+  <img src="Images/patrick-bateman.gif"/>
+</p>
