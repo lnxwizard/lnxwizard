@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SkyNotepad](https://github.com/AlperAkca79/SkyNotepad)
 
-- 🌱 I’m currently learning **Go Programming Language**
+- 🌱 I’m currently learning [**Go Programming Language**](https://github.com/golang/go)
 
 - 👨‍💻 All of my projects are available at [https://alperakca79.github.io](https://alperakca79.github.io/projects)
 
