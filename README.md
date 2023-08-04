@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">I'm Junior Software Developer</h3>
 
-- 🔭 I’m currently working on [SkyNotepad](https://github.com/LnxWizard/SkyNotepad)
+- 🔭 I’m currently working on some CLI tool projects.
 
-- 🌱 I’m currently learning [**Go Programming Language**](https://github.com/golang/go)
+- 🌱 I’m currently learning [**Go Programming Language**](https://github.com/golang/go) and [**Rust**](https://github.com/rust-lang/rust).
 
 - 👨‍💻 All of my projects are available at [https://lnxwizard.github.io](https://lnxwizard.github.io/projects)
 
@@ -23,14 +23,22 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="Images/c-plus-plus.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="Images/c-sharp.png" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="Images/go.png" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="Images/java.png" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="Images/python.png" alt="python" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com/"> <img src="Images/visual-studio.png" alt="visualstudio" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/"> <img src="Images/vs-code.png" alt="vscode" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lnxwizard&show_icons=true&locale=en" alt="lnxwizard" /></p>
+![Rust](https://github.com/lnxwizard/lnxwizard/assets/91411319/6dbe287a-76ba-423d-9127-edc945c2c667)
+![Intellij](https://github.com/lnxwizard/lnxwizard/assets/91411319/0103a768-d914-473a-9c5b-6e6dca660582)
+![Go](https://github.com/lnxwizard/lnxwizard/assets/91411319/32b17713-e901-4efd-adb7-2e7690270eb1)
+![Git](https://github.com/lnxwizard/lnxwizard/assets/91411319/8e500f68-9c55-418c-8870-3ee228977847)
+![Docker](https://github.com/lnxwizard/lnxwizard/assets/91411319/ae75c224-cfaa-4533-bd45-01c171c8debc)
+![Csharp](https://github.com/lnxwizard/lnxwizard/assets/91411319/1fd6578e-da6d-454a-b623-07b0ad711794)
+![Cplusplus](https://github.com/lnxwizard/lnxwizard/assets/91411319/432a138a-be24-4b2f-982a-89a8bd277c85)
+![Bash](https://github.com/lnxwizard/lnxwizard/assets/91411319/5729b1d8-13fa-4b1e-a0e0-eff0267992c0)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lnxwizard&" alt="lnxwizard" /></p>
+![lnxwizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnxwizard&show_icons=true&locale=en)
 
-<p>
-  <img src="Images/patrick-bateman.gif"/>
-</p>
+![lnxwizard's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=lnxwizard&)
+
+![lnxwizard's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lnxwizard)
+
+![patrick-bateman](https://github.com/lnxwizard/lnxwizard/assets/91411319/3810b1ed-5063-4468-8315-dcd622b185f6)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnxwizard&label=Profile%20views&color=0e75b6&style=flat" alt="lnxwizard" /> </p>
