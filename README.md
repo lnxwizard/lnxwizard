@@ -25,13 +25,15 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![Rust](https://github.com/lnxwizard/lnxwizard/assets/91411319/6dbe287a-76ba-423d-9127-edc945c2c667)
-![Intellij](https://github.com/lnxwizard/lnxwizard/assets/91411319/0103a768-d914-473a-9c5b-6e6dca660582)
 ![Go](https://github.com/lnxwizard/lnxwizard/assets/91411319/32b17713-e901-4efd-adb7-2e7690270eb1)
-![Git](https://github.com/lnxwizard/lnxwizard/assets/91411319/8e500f68-9c55-418c-8870-3ee228977847)
-![Docker](https://github.com/lnxwizard/lnxwizard/assets/91411319/ae75c224-cfaa-4533-bd45-01c171c8debc)
 ![Csharp](https://github.com/lnxwizard/lnxwizard/assets/91411319/1fd6578e-da6d-454a-b623-07b0ad711794)
 ![Cplusplus](https://github.com/lnxwizard/lnxwizard/assets/91411319/432a138a-be24-4b2f-982a-89a8bd277c85)
 ![Bash](https://github.com/lnxwizard/lnxwizard/assets/91411319/5729b1d8-13fa-4b1e-a0e0-eff0267992c0)
+![Git](https://github.com/lnxwizard/lnxwizard/assets/91411319/8e500f68-9c55-418c-8870-3ee228977847)
+![Docker](https://github.com/lnxwizard/lnxwizard/assets/91411319/ae75c224-cfaa-4533-bd45-01c171c8debc)
+<img alt="VSCodium" src="https://github.com/lnxwizard/lnxwizard/assets/91411319/7cab8fa5-7973-458c-915f-f0bbfcef2da7" width="48" height="48">
+![Intellij](https://github.com/lnxwizard/lnxwizard/assets/91411319/0103a768-d914-473a-9c5b-6e6dca660582)
+
 
 ![lnxwizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnxwizard&show_icons=true&locale=en)
 
