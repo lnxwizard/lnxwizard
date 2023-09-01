@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">I'm Junior Software Developer</h3>
+<h3 align="center">I'm Software Developer</h3>
 
 - 🔭 I’m currently working on some CLI tool projects.
 
 - 🌱 I’m currently learning [**Go Programming Language**](https://github.com/golang/go) and [**Rust**](https://github.com/rust-lang/rust).
 
-- 👨‍💻 All of my projects are available at [https://lnxwizard.github.io](https://lnxwizard.github.io/projects)
+- 👨‍💻 All of my projects are available at [https://lnxwizard.github.io/projects](https://lnxwizard.github.io/projects)
 
 - 📝 I regularly write articles on [https://lnxwizard.github.io/blog](https://lnxwizard.github.io/blog)
 
