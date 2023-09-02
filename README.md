@@ -34,6 +34,11 @@
 <img alt="VSCodium" src="https://github.com/lnxwizard/lnxwizard/assets/91411319/7cab8fa5-7973-458c-915f-f0bbfcef2da7" width="48" height="48">
 ![Intellij](https://github.com/lnxwizard/lnxwizard/assets/91411319/0103a768-d914-473a-9c5b-6e6dca660582)
 
+<h3 align="left">My System</h3>
+<a href="https://fedoraproject.org"><img width="250" height="75" src="https://github.com/lnxwizard/lnxwizard/assets/91411319/3bd99547-30df-4e64-b2e8-457d0487cdf8"></a>
+
+
+<h3 align="left">GitHub Stats</h3>
 
 ![lnxwizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnxwizard&show_icons=true&locale=en)
 
