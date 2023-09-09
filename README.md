@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">I'm Software Developer</h3>
+# Hi 👋, I'm Alper
+### I'm Software Developer, Pixel Artist and Linux Enjoyer.
 
 - 🔭 I’m currently working on some CLI tool projects.
 
@@ -17,35 +17,54 @@
 
 - 🇹🇷 I'm From Turkey
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/alperakca79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alperakca79" height="30" width="40" /></a>
-</p>
+### Languages:
+![C#](res/c-sharp-64x24.png)
 
-<h3 align="left">Languages and Tools:</h3>
+I learned ![C#](res/c-sharp.png), my first programming language, 2 years ago and developed projects. But I've taken a break from ![C#](res/c-sharp.png) for now.
 
-![Rust](https://github.com/lnxwizard/lnxwizard/assets/91411319/6dbe287a-76ba-423d-9127-edc945c2c667)
-![Go](https://github.com/lnxwizard/lnxwizard/assets/91411319/32b17713-e901-4efd-adb7-2e7690270eb1)
-![Csharp](https://github.com/lnxwizard/lnxwizard/assets/91411319/1fd6578e-da6d-454a-b623-07b0ad711794)
-![Cplusplus](https://github.com/lnxwizard/lnxwizard/assets/91411319/432a138a-be24-4b2f-982a-89a8bd277c85)
-![Bash](https://github.com/lnxwizard/lnxwizard/assets/91411319/5729b1d8-13fa-4b1e-a0e0-eff0267992c0)
-![Git](https://github.com/lnxwizard/lnxwizard/assets/91411319/8e500f68-9c55-418c-8870-3ee228977847)
+
+![C++](res/c-plus-plus-64x24.png)
+
+After ![C#](res/c-sharp.png), I learned ![C++](res/c-plus-plus.png), but I did not develop many projects.
+
+
+![Go](res/go-lang-64x24.png)
+
+4 months ago, the idea of developing command line tools came to my mind. I heard that the ![Go](res/go-lang.png) language has very good packages for developing command line tools and I started learning it right away. I wrote small command line tools in ![Go](res/go-lang.png). I still use this language.
+
+
+![Bash](res/bash-64x24.png)
+
+I learned ![Bash](res/bash.png) with Linux. I wrote beautiful scripts with this language.
+
+
+![Rust](res/rust-lang-64x24.png)
+
+I'm new to the ![Rust](res/rust-lang.png) programming language. I started learning 3 weeks ago (August 20). It caught my attention that it has been chosen as my favorite programming language many times on StackOverflow. The ![Rust](res/rust-lang.png) community also said that this language is very good. I started learning ![Rust](res/rust-lang.png) right away. Indeed, as the community says, ![Rust](res/rust-lang.png) is a powerful and beautiful language.
+
+
+![Git](res/git-scm-64x24.png)
+
+I use ![Git](res/git-scm.png) as my main version control tool. The best in its field.
+
+### Tools
+
 ![Docker](https://github.com/lnxwizard/lnxwizard/assets/91411319/ae75c224-cfaa-4533-bd45-01c171c8debc)
 <img alt="VSCodium" src="https://github.com/lnxwizard/lnxwizard/assets/91411319/7cab8fa5-7973-458c-915f-f0bbfcef2da7" width="48" height="48">
 ![Intellij](https://github.com/lnxwizard/lnxwizard/assets/91411319/0103a768-d914-473a-9c5b-6e6dca660582)
 
-<h3 align="left">My System</h3>
+### My System
 <a href="https://fedoraproject.org"><img width="250" height="75" src="https://github.com/lnxwizard/lnxwizard/assets/91411319/3bd99547-30df-4e64-b2e8-457d0487cdf8"></a>
 
 
-<h3 align="left">GitHub Stats</h3>
+### GitHub Stats
 
 ![lnxwizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnxwizard&show_icons=true&locale=en)
 
 ![lnxwizard's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=lnxwizard&)
 
-![lnxwizard's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lnxwizard)
+![lnxwizard's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lnxwizard)
 
-![patrick-bateman](https://github.com/lnxwizard/lnxwizard/assets/91411319/3810b1ed-5063-4468-8315-dcd622b185f6)
+![Patrick Bateman](https://github.com/lnxwizard/lnxwizard/assets/91411319/3810b1ed-5063-4468-8315-dcd622b185f6)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lnxwizard&label=Profile%20views&color=0e75b6&style=flat" alt="lnxwizard" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=lnxwizard&label=Profile%20views&color=0e75b6&style=flat)
