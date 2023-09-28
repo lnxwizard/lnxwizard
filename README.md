@@ -1,5 +1,5 @@
 # Hi 👋, I'm Alper
-### I'm Software Developer, Pixel Artist and Linux Enjoyer.
+### I'm Software Developer, Pixel Artist and Linux Enthusiast.
 
 - 🔭 I’m currently working on some CLI tool projects.
 
