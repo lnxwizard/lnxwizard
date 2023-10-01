@@ -17,6 +17,7 @@
 
 - 🇹🇷 I'm From Turkey
 
+
 ### Languages:
 ![C#](res/c-sharp-64x24.png)
 
@@ -42,14 +43,11 @@ I learned ![Bash](res/bash.png) with Linux. I wrote beautiful scripts with this 
 
 I'm new to the ![Rust](res/rust-lang.png) programming language. I started learning 3 weeks ago (August 20). It caught my attention that it has been chosen as my favorite programming language many times on StackOverflow. The ![Rust](res/rust-lang.png) community also said that this language is very good. I started learning ![Rust](res/rust-lang.png) right away. Indeed, as the community says, ![Rust](res/rust-lang.png) is a powerful and beautiful language.
 
-I'm using JetBrains RustRover IDE for ![Rust](res/rust-lang.png) programming.
-
-<img src="res/rust_rover.png" width="315" height="200"> <br/> <br/> <br/>
-
 
 ![Git](res/git-scm-64x24.png)
 
 I use ![Git](res/git-scm.png) as my main version control tool. The best in its field.
+
 
 ### Tools
 
@@ -58,8 +56,9 @@ I use ![Git](res/git-scm.png) as my main version control tool. The best in its f
 ![Intellij](https://github.com/lnxwizard/lnxwizard/assets/91411319/0103a768-d914-473a-9c5b-6e6dca660582)
 <img alt="RustRover" src="https://github.com/lnxwizard/examples.rs/assets/91411319/940256fd-d25b-4e20-8519-0dfd216a886e" width="42" height="42">
 
+
 ### My System
-<a href="https://fedoraproject.org"><img width="250" height="75" src="https://github.com/lnxwizard/lnxwizard/assets/91411319/3bd99547-30df-4e64-b2e8-457d0487cdf8"></a>
+**Operating System:** <a href="https://fedoraproject.org"><img width="87" height="29" src="https://github.com/lnxwizard/lnxwizard/assets/91411319/3bd99547-30df-4e64-b2e8-457d0487cdf8"></a>
 
 
 ### GitHub Stats
