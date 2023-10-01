@@ -58,7 +58,7 @@ I use ![Git](res/git-scm.png) as my main version control tool. The best in its f
 
 
 ### My System
-**Operating System:** <a href="https://fedoraproject.org"><img width="87" height="29" src="https://github.com/lnxwizard/lnxwizard/assets/91411319/3bd99547-30df-4e64-b2e8-457d0487cdf8"></a>
+<a href="https://fedoraproject.org"><img width="87" height="29" src="https://github.com/lnxwizard/lnxwizard/assets/91411319/3bd99547-30df-4e64-b2e8-457d0487cdf8"></a>
 
 
 ### GitHub Stats
