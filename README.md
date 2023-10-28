@@ -67,7 +67,7 @@ I use ![Git](res/git-scm.png) as my main version control tool. The best in its f
 
 ![lnxwizard's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=lnxwizard&)
 
-![lnxwizard's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lnxwizard)
+![lnxwizard's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lnxwizard&hide=html,css)
 
 ![Patrick Bateman](https://github.com/lnxwizard/lnxwizard/assets/91411319/3810b1ed-5063-4468-8315-dcd622b185f6)
 
